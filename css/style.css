@@ -1,0 +1,141 @@
+/* 
+    Document   : style
+    Created on : 19/09/2013, 09:06:43 PM
+    Author     : Juan Ramos
+
+*/
+::selection{
+  background: black;
+}
+
+@keyframes type {
+    from { width: 0 }
+}
+@keyframes blink{
+  to{opacity: .0;}
+}
+a
+{
+    text-decoration: none
+}
+body
+{
+    background: #ecedef;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+h1
+{
+    color: #E68083;
+    font-size: 3.8em;
+    font-style: italic;
+    font-weight: 900;
+    margin: 0
+}
+h1 span
+{
+    color: #9ea1a4;
+
+}
+h1,#logo,#gafas
+{
+
+    min-width: 100%;
+    text-align: center;
+}
+h2
+{    
+    
+    color: #939496;
+    display: inline-block;
+    overflow: hidden;
+    width: 100%;
+    white-space: nowrap;
+    
+    
+}
+h2.animation
+{
+    animation: type 4s steps(60, end);
+}
+
+p
+{
+    color: #fff;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 1.2em;
+    padding: 0.5em;
+    width: 90%
+}
+section,#logo,#gafas
+{
+    display: block
+}
+
+#logo
+{
+    margin-top: 1.5em;
+}
+#logo img
+{
+    width: 230px;
+    margin: 0;
+}
+#gafas img
+{
+    margin: 0.5em 0 2em 0;
+    max-width: 626px;
+    width:  90%
+}
+
+#quienSoy,#meDedico,#destrezas,#portafolio,#contacto
+{
+    min-width: 100%;
+    height:  39.5em;
+    margin: 0;
+    padding: 0;
+    position: relative
+}
+
+#quienSoy
+{
+    background-color: #EE857A;    
+}
+
+#meDedico
+{
+    background-color: #A0DFF1;    
+}
+#destrezas
+{
+    background-color: #B4C2E5;    
+}
+#portafolio
+{
+    background-color: #d2f1d0;    
+}
+#contacto
+{
+    background-color: #777a7f;
+}
+#twitter
+{
+    display: block;
+    min-width: 100%;
+    text-align: center
+}
+#twitter img
+{
+    margin-top: 2.5em;
+    width: 30px
+}
+#typing
+{
+    display: inline-block;
+    width: 700px
+}
+#typing ul
+{
+    display: none
+}

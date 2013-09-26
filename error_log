@@ -1,0 +1,254 @@
+[22-Sep-2013 16:09:23] PHP Fatal error:  Can only throw objects in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 40
+[22-Sep-2013 16:09:42] PHP Fatal error:  Can only throw objects in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 40
+[22-Sep-2013 16:17:49] PHP Fatal error:  Class 'Codebird' not found in /home3/juantwor/public_html/juan2ramos/index.php on line 8
+[22-Sep-2013 16:17:53] PHP Fatal error:  Class 'Codebird' not found in /home3/juantwor/public_html/juan2ramos/index.php on line 8
+[22-Sep-2013 16:18:17] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:18:19] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:19:32] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:19:33] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:20:02] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:20:04] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:20:50] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:20:51] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:20:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:20:53] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:21:01] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:21:02] PHP Fatal error:  Method name must be a string in /home3/juantwor/public_html/juan2ramos/index.php on line 25
+[22-Sep-2013 16:21:11] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:21:23] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:21:24] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:21:33] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:21:33] PHP Fatal error:  Method name must be a string in /home3/juantwor/public_html/juan2ramos/index.php on line 25
+[22-Sep-2013 16:21:46] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:25:46] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:25:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php:976
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/ApiTwitter.php(486): Codebird->_callApi('GET', 'search/tweets', 'search/tweets', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/index.php(26): Codebird->__call('search_tweets', Array)
+#2 /home3/juantwor/public_html/juan2ramos/index.php(26): Codebird->search_tweets(Array)
+#3 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 976
+[22-Sep-2013 16:26:09] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:26:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php:976
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/ApiTwitter.php(486): Codebird->_callApi('GET', 'search/tweets', 'search/tweets', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/index.php(26): Codebird->__call('search_tweets', Array)
+#2 /home3/juantwor/public_html/juan2ramos/index.php(26): Codebird->search_tweets(Array)
+#3 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 976
+[22-Sep-2013 16:26:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:26:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php:976
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/ApiTwitter.php(486): Codebird->_callApi('GET', 'search/tweets', 'search/tweets', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/index.php(26): Codebird->__call('search_tweets', Array)
+#2 /home3/juantwor/public_html/juan2ramos/index.php(26): Codebird->search_tweets(Array)
+#3 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 976
+[22-Sep-2013 16:26:41] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:26:42] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:27:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:27:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php:976
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/ApiTwitter.php(486): Codebird->_callApi('GET', 'statuses/home_t...', 'statuses/home_t...', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/index.php(13): Codebird->__call('statuses_homeTi...', Array)
+#2 /home3/juantwor/public_html/juan2ramos/index.php(13): Codebird->statuses_homeTimeline()
+#3 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 976
+[22-Sep-2013 16:27:54] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:27:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php:976
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/ApiTwitter.php(486): Codebird->_callApi('GET', 'statuses/home_t...', 'statuses/home_t...', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/index.php(13): Codebird->__call('statuses_homeTi...', Array)
+#2 /home3/juantwor/public_html/juan2ramos/index.php(13): Codebird->statuses_homeTimeline()
+#3 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 976
+[22-Sep-2013 16:28:07] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:32:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:32:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/juantwor/public_html/juan2ramos/index.php:2) in /home3/juantwor/public_html/juan2ramos/index.php on line 13
+[22-Sep-2013 16:32:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php:976
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/ApiTwitter.php(486): Codebird->_callApi('POST', 'oauth/request_t...', 'oauth/request_t...', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/index.php(19): Codebird->__call('oauth_requestTo...', Array)
+#2 /home3/juantwor/public_html/juan2ramos/index.php(19): Codebird->oauth_requestToken(Array)
+#3 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 976
+[22-Sep-2013 16:32:47] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 460
+[22-Sep-2013 16:32:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/juantwor/public_html/juan2ramos/index.php:2) in /home3/juantwor/public_html/juan2ramos/index.php on line 13
+[22-Sep-2013 16:32:47] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php:976
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/ApiTwitter.php(486): Codebird->_callApi('POST', 'oauth/request_t...', 'oauth/request_t...', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/index.php(19): Codebird->__call('oauth_requestTo...', Array)
+#2 /home3/juantwor/public_html/juan2ramos/index.php(19): Codebird->oauth_requestToken(Array)
+#3 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 976
+[22-Sep-2013 16:37:35] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:37:36] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/ApiTwitter.php on line 3
+[22-Sep-2013 16:48:05] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:05] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:07] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:07] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:08] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:08] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:36] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:36] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:39] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:48:39] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/index.php on line 11
+[22-Sep-2013 16:54:26] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:54:26] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:54:29] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:54:29] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:54:35] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:54:35] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:00] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:00] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:02] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:02] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:03] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:03] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:05] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:05] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:22] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:22] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:23] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:23] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 16:56:35] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:56:35] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:56:36] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:56:36] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:56:37] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:56:37] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:56:51] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:56:51] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:57:07] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:57:07] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:57:08] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:57:08] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:57:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './includes/codebird.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 3
+[22-Sep-2013 16:57:51] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './includes/codebird.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 3
+[22-Sep-2013 16:58:01] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './includes/codebird.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 3
+[22-Sep-2013 16:58:02] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './includes/codebird.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 3
+[22-Sep-2013 16:58:04] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './includes/codebird.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 3
+[22-Sep-2013 16:58:57] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 16:58:59] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 16:59:17] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 16:59:17] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 16:59:47] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 3
+[22-Sep-2013 16:59:52] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 3
+[22-Sep-2013 16:59:54] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 3
+[22-Sep-2013 17:00:00] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 3
+[22-Sep-2013 17:00:14] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 3
+[22-Sep-2013 17:00:34] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:00:42] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:00:42] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 17:01:19] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:01:48] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:02:01] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:02:01] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 10
+[22-Sep-2013 17:02:26] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:02:26] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 17:02:28] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:02:28] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 17:02:41] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:02:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:02:53] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:02:53] PHP Parse error:  syntax error, unexpected T_STRING in /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php on line 12
+[22-Sep-2013 17:03:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:03:31] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:03:33] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:03:47] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:04:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:05:08] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:08:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:08:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate(5)
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[22-Sep-2013 17:09:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:09:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate()
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[22-Sep-2013 17:09:14] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 17:09:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate()
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[22-Sep-2013 18:28:28] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[22-Sep-2013 18:28:28] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate()
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[23-Sep-2013 09:39:20] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[23-Sep-2013 09:39:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate()
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[24-Sep-2013 14:32:22] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[24-Sep-2013 14:32:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate()
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[24-Sep-2013 16:08:59] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[24-Sep-2013 16:08:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate()
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[24-Sep-2013 16:20:30] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 268
+[24-Sep-2013 16:20:30] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error 77 while validating the Twitter API certificate.' in /home3/juantwor/public_html/juan2ramos/include/codebird.php:923
+Stack trace:
+#0 /home3/juantwor/public_html/juan2ramos/include/codebird.php(294): Codebird->_callApi('GET', 'favorites/list', 'favorites/list', Array, false, false)
+#1 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->__call('favorites_list', Array)
+#2 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(92): Codebird->favorites_list()
+#3 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(33): FavoriteTweetsList->fetch_feed()
+#4 /home3/juantwor/public_html/juan2ramos/include/FavoriteTweetsList.php(51): FavoriteTweetsList->get()
+#5 /home3/juantwor/public_html/juan2ramos/index.php(41): FavoriteTweetsList->generate()
+#6 {main}
+  thrown in /home3/juantwor/public_html/juan2ramos/include/codebird.php on line 923
+[24-Sep-2013 16:53:09] PHP Fatal error:  Cannot use object of type stdClass as array in /home3/juantwor/public_html/juan2ramos/index.php on line 12
+[24-Sep-2013 20:28:33] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './twitteroauth.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 2
+[24-Sep-2013 20:28:58] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '.../include/twitteroauth.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 2
+[24-Sep-2013 20:29:00] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '.../include/twitteroauth.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 2
+[24-Sep-2013 20:29:07] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '.../include/twitteroauth.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 2
+[24-Sep-2013 20:29:10] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../include/twitteroauth.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/juantwor/public_html/juan2ramos/index.php on line 2
