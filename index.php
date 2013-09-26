@@ -10,6 +10,8 @@ $accesstokensecret = 'xZ6sIyxeoKcxcV5OchdjTDXJLXhnzrfu6zf6bUzJg7c';
 $twitter = new TwitterOAuth($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
 
 $tweets = $twitter->get('https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=juan2ramos&count=10');
+
+#prueba
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
