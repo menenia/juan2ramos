@@ -6,6 +6,7 @@ $consumersecret = 'ZOw3Y9BoMpiZaaoqaL1OH3tH3BNHr2YoBQ4IF2JYu4s';
 $accesstoken = '56143706-DqNvSdocUyKQsSkk6vweW66vtv9ovSfRDECmfzdk';
 $accesstokensecret = 'xZ6sIyxeoKcxcV5OchdjTDXJLXhnzrfu6zf6bUzJg7c';
 
+#instancia
 $twitter = new TwitterOAuth($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
 
 $tweets = $twitter->get('https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=juan2ramos&count=10');
