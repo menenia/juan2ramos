@@ -67,9 +67,9 @@ $tweets = $twitter->get('https://api.twitter.com/1.1/statuses/user_timeline.json
         </header>
         <section id="quienSoy">
             <div id="parrafo">
-                <p>Juan Ramos Dise√±ador y Desarrollador Web Creativo ‚Äúfreelance‚Äù,  mi experiencia se ha optimizado realizando sitios web con dise√±os exclusivos y originales, teniendo  como objetivo principal al usuario final; Crear  lugares accesibles, funcionales, con una planeaci√≥n y construcci√≥n que cuenten con las √∫ltimas tendencias tanto en desarrollo como en dise√±o, es el ideal de cada proyecto a emprender.</p>
-                <p>Para llevar a cabo cada proyecto cuento con un recurso humano interdisciplinario como  fot√≥grafos, expertos en medios digitales, ilustradores y comunicadores audiovisuales a fin de ofrecer una verdadera herramienta de negocio. A√±adido para pruebas </p>  
-                <p>Me apasiona y disfruto con cada proyecto, pongo creatividad e imaginaci√≥n, es una nueva oportunidad de aprender y mejorar mis habilidades. AÒadido Para prueba </p>
+                <p>Juan Ramos DiseÒador y Desarrollador Web Creativo ?freelance?,  mi experiencia se ha optimizado realizando sitios web con diseÒos exclusivos y originales, teniendo  como objetivo principal al usuario final; Crear  lugares accesibles, funcionales, con una planeaciÛn y construcciÛn que cuenten con las ˙ltimas tendencias tanto en desarrollo como en diseÒo, es el ideal de cada proyecto a emprender.</p>
+                <p>Para llevar a cabo cada proyecto cuento con un recurso humano interdisciplinario como  fotÛgrafos, expertos en medios digitales, ilustradores y comunicadores audiovisuales a fin de ofrecer una verdadera herramienta de negocio. AÒadido para pruebas </p>  
+                <p>Me apasiona y disfruto con cada proyecto, pongo creatividad e imaginaciÛn, es una nueva oportunidad de aprender y mejorar mis habilidades. </p>
             </div>
         </section>
         <section id="meDedico">
