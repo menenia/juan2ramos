@@ -18,7 +18,7 @@ $tweets = $twitter->get('https://api.twitter.com/1.1/statuses/user_timeline.json
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> 
 <html lang="es">
-    <head>
+    <head> 
 
         <title>Portafolio Juan Ramos</title>
 
@@ -53,7 +53,7 @@ $tweets = $twitter->get('https://api.twitter.com/1.1/statuses/user_timeline.json
                         <ul>
                             <? for ($i = 0; $i < 10; $i++) : ?>
                                 <li><? echo $tweets[$i]->text; ?></li>
-                            <? endfor; ?>
+                            <? endfor; ?> 
                         </ul>
                         <h2></h2>
                     </div>
@@ -68,8 +68,8 @@ $tweets = $twitter->get('https://api.twitter.com/1.1/statuses/user_timeline.json
         <section id="quienSoy">
             <div id="parrafo">
                 <p>Juan Ramos Diseñador y Desarrollador Web Creativo “freelance”,  mi experiencia se ha optimizado realizando sitios web con diseños exclusivos y originales, teniendo  como objetivo principal al usuario final; Crear  lugares accesibles, funcionales, con una planeación y construcción que cuenten con las últimas tendencias tanto en desarrollo como en diseño, es el ideal de cada proyecto a emprender.</p>
-                <p>Para llevar a cabo cada proyecto cuento con un recurso humano interdisciplinario como  fotógrafos, expertos en medios digitales, ilustradores y comunicadores audiovisuales a fin de ofrecer una verdadera herramienta de negocio.</p>
-                <p>Me apasiona y disfruto con cada proyecto, pongo creatividad e imaginación, es una nueva oportunidad de aprender y mejorar mis habilidades.</p>
+                <p>Para llevar a cabo cada proyecto cuento con un recurso humano interdisciplinario como  fotógrafos, expertos en medios digitales, ilustradores y comunicadores audiovisuales a fin de ofrecer una verdadera herramienta de negocio. Añadido para pruebas </p>  
+                <p>Me apasiona y disfruto con cada proyecto, pongo creatividad e imaginación, es una nueva oportunidad de aprender y mejorar mis habilidades. A�adido Para prueba </p>
             </div>
         </section>
         <section id="meDedico">
