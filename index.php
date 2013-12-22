@@ -1,6 +1,6 @@
 <?
 require('./include/twitteroauth.php'); // path to twitteroauth library
-
+#error en plugin de twitter
 $consumerkey = 'IfZu2KyFrUENObWRRb4rEQ';
 $consumersecret = 'ZOw3Y9BoMpiZaaoqaL1OH3tH3BNHr2YoBQ4IF2JYu4s';
 $accesstoken = '56143706-DqNvSdocUyKQsSkk6vweW66vtv9ovSfRDECmfzdk';
